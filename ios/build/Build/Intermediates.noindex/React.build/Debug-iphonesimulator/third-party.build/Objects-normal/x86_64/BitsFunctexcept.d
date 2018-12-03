@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/mo/Local_Dev/auth/node_modules/react-native/third-party/folly-2016.10.31.00/folly/portability/BitsFunctexcept.cpp \
-  /Users/mo/Local_Dev/auth/node_modules/react-native/third-party/folly-2016.10.31.00/folly/portability/BitsFunctexcept.h \
-  /Users/mo/Local_Dev/auth/node_modules/react-native/third-party/folly-2016.10.31.00/folly/portability/Config.h \
-  /Users/mo/Local_Dev/auth/node_modules/react-native/third-party/folly-2016.10.31.00/folly/Portability.h \
-  /Users/mo/Local_Dev/auth/node_modules/react-native/third-party/folly-2016.10.31.00/folly/CPortability.h
+  /Users/mo/Local_Dev/ReactNativeLoginFirebase/node_modules/react-native/third-party/folly-2016.10.31.00/folly/portability/BitsFunctexcept.cpp \
+  /Users/mo/Local_Dev/ReactNativeLoginFirebase/node_modules/react-native/third-party/folly-2016.10.31.00/folly/portability/BitsFunctexcept.h \
+  /Users/mo/Local_Dev/ReactNativeLoginFirebase/node_modules/react-native/third-party/folly-2016.10.31.00/folly/portability/Config.h \
+  /Users/mo/Local_Dev/ReactNativeLoginFirebase/node_modules/react-native/third-party/folly-2016.10.31.00/folly/Portability.h \
+  /Users/mo/Local_Dev/ReactNativeLoginFirebase/node_modules/react-native/third-party/folly-2016.10.31.00/folly/CPortability.h
